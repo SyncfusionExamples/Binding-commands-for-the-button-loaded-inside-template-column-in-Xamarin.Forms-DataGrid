@@ -6,13 +6,13 @@ If you’re new to SfDataGrid, please refer to the official overview: [Overview 
 
 ## Prerequisites
 
-* Visual Studio 2019 or later (Xamarin workload)
+* Visual Studio (2019 or any newer version) with Xamarin workload installed.
 
 ## Requirements to run the sample
 
 * [Visual Studio](https://visualstudio.microsoft.com/downloads/)
-* [Windows App SDK 1.1 extension](https://docs.microsoft.com/en-us/windows/apps/windows-app-sdk/stable-channel#version-11)
-* .NET 6.0
+* [Windows App SDK extension](https://docs.microsoft.com/en-us/windows/apps/windows-app-sdk/stable-channel#version-11) (version 1.1 or newer)
+* .NET (version 6.0 or newer)
 
 Refer to the following link for more details - [System Requirements](https://help.syncfusion.com/xamarin/system-requirements)
 
